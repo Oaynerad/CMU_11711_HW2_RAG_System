@@ -1,55 +1,59 @@
 [
     {
         "question": "Who will be performing at Heinz Hall on March 19, 2025?",
-        "answer": "Lang Lang with the PSO"
+        "answer": ["Lang Lang with the PSO"]
     },
     {
         "question": "What type of music will be played at the 'Kanneh-Mason Performs Shostakovich' event?",
-        "answer": "Classical, Live Music"
+        "answer": ["Classical, Live Music"]
     },
     {
         "question": "Which events at Heinz Hall in April 2025 include both talks and poetry?",
-        "answer": "Speakers Series: Andrew Lloyd Webber, Speakers Series: Chris Wallace"
+        "answer": ["Speakers Series: Andrew Lloyd Webber, Speakers Series: Chris Wallace"]
     },
     {
         "question": "Who is performing at Heinz Hall on July 2, 2025?",
-        "answer": "Diana Krall"
+        "answer": ["Diana Krall"]
     },
     {
         "question": "When is the 'Marvel Infinity Saga' event scheduled?",
-        "answer": "August 2-3, 2025"
+        "answer": ["August 2-3, 2025"]
     },
     {
         "question": "What are the last three scheduled events for 2025 at Heinz Hall?",
-        "answer": "Holiday Brass Spectacular (Dec 16, 2025), Sensory Friendly Concert: Holiday Pops (Dec 13, 2025), Messiah (Dec 9, 2025)"
+        "answer": ["Holiday Brass Spectacular (Dec 16, 2025), Sensory Friendly Concert: Holiday Pops (Dec 13, 2025), Messiah (Dec 9, 2025)"]
     },
     {
         "question": "When will the 'PSO360: Alice Sara Ott, piano' concert take place?",
-        "answer": "June 7, 2025"
+        "answer": ["June 7, 2025"]
     },
     {
         "question": "Which concert will feature Beethoven's 'Eroica' symphony?",
-        "answer": "Beethoven's Eroica, scheduled for March 27-29, 2026"
+        "answer": ["Beethoven's Eroica, scheduled for March 27-29, 2026"]
     },
     {
         "question": "Where will the 'Adam Ray is Dr. Phil' event be held?",
-        "answer": "Heinz Hall"
+        "answer":["Heinz Hall"]
     },
     {
         "question": "Which event will be held on June 18, 2025, at Heinz Hall?",
-        "answer": "Dolly Parton's Threads: My Songs in Symphony"
+        "answer": ["Dolly Parton's Threads: My Songs in Symphony"]
     },
     {
         "question": "Who created the terrible towel at 1975?",
+<<<<<<< HEAD
+        "answer": ["Myron Cope"]
+=======
         "answer": "Myron Cope"
+>>>>>>> 520d13640765822a42325752ba5ef87358233cec
     },
     {
         "question": "When was the Banana Split, an iconic part of American dessert culture invented?",
-        "answer": "1904"
+        "answer": ["1904"]
     },
     {
         "question": "When will NatureFest be held at Natural History?",
-        "answer": "Mar 22, 2025"
+        "answer": ["Mar 22, 2025"]
     },
     {
         "question": "What will be held at Natural History Museum at Mar 17, 2025?",
