@@ -1,0 +1,966 @@
+Pirates' season scedule:
+
+date: Mar 13 (Thu)
+Pirates playing against: Twins
+start time: 
+
+
+date: Mar 14 (Fri)
+Pirates playing against: Phillies Prospects
+start time: 1:05 pm EDT
+
+
+date: Mar 14 (Fri)
+Pirates playing against: Tigers
+start time: 6:05 pm EDT
+
+
+date: Mar 15 (Sat)
+Pirates playing against: Orioles
+start time: 1:05 pm EDT
+
+
+date: Mar 16 (Sun)
+Pirates playing against: Yankees
+start time: 1:05 pm EDT
+
+
+date: Mar 17 (Mon)
+Pirates playing against: Twins
+start time: 1:05 pm EDT
+
+
+date: Mar 17 (Mon)
+Pirates playing against: Tigers
+start time: 1:05 pm EDT
+
+
+date: Mar 18 (Tue)
+Pirates playing against: Phillies
+start time: 1:05 pm EDT
+
+
+date: Mar 19 (Wed)
+Pirates playing against: Rays
+start time: 1:05 pm EDT
+
+
+date: Mar 21 (Fri)
+Pirates playing against: Red Sox
+start time: 6:05 pm EDT
+
+
+date: Mar 22 (Sat)
+Pirates playing against: Orioles
+start time: 1:05 pm EDT
+
+
+date: Mar 23 (Sun)
+Pirates playing against: Blue Jays
+start time: 1:07 pm EDT
+
+
+date: Mar 24 (Mon)
+Pirates playing against: Twins
+start time: 1:05 pm EDT
+
+
+date: Mar 27 (Thu)
+Pirates playing against: Marlins
+start time: 4:10 pm EDT
+
+
+date: Mar 28 (Fri)
+Pirates playing against: Marlins
+start time: 7:10 pm EDT
+
+
+date: Mar 29 (Sat)
+Pirates playing against: Marlins
+start time: 4:10 pm EDT
+
+
+date: Mar 30 (Sun)
+Pirates playing against: Marlins
+start time: 1:40 pm EDT
+
+
+date: Mar 31 (Mon)
+Pirates playing against: Rays
+start time: 7:05 pm EDT
+
+
+date: Mar 1 (Sat)
+Pirates playing against: Orioles
+start time: 
+
+
+date: Mar 2 (Sun)
+Pirates playing against: Tigers
+start time: 
+
+
+date: Mar 3 (Mon)
+Pirates playing against: Yankees
+start time: 
+
+
+date: Mar 4 (Tue)
+Pirates playing against: Red Sox
+start time: 
+
+
+date: Mar 5 (Wed)
+Pirates playing against: Blue Jays
+start time: 
+
+
+date: Mar 6 (Thu)
+Pirates playing against: Orioles
+start time: 
+
+
+date: Mar 7 (Fri)
+Pirates playing against: Phillies
+start time: 
+
+
+date: Mar 8 (Sat)
+Pirates playing against: Braves
+start time: 
+
+
+date: Mar 9 (Sun)
+Pirates playing against: Tigers
+start time: 
+
+
+date: Mar 10 (Mon)
+Pirates playing against: Orioles
+start time: 
+
+
+date: Mar 11 (Tue)
+Pirates playing against: Yankees
+start time: 
+
+
+date: Apr 1 (Tue)
+Pirates playing against: Rays
+start time: 7:05 pm EDT
+
+
+date: Apr 2 (Wed)
+Pirates playing against: Rays
+start time: 1:10 pm EDT
+
+
+date: Apr 4 (Fri)
+Pirates playing against: Yankees
+start time: 4:12 pm EDT
+
+
+date: Apr 5 (Sat)
+Pirates playing against: Yankees
+start time: 4:05 pm EDT
+
+
+date: Apr 6 (Sun)
+Pirates playing against: Yankees
+start time: 1:35 pm EDT
+
+
+date: Apr 7 (Mon)
+Pirates playing against: Cardinals
+start time: 6:40 pm EDT
+
+
+date: Apr 8 (Tue)
+Pirates playing against: Cardinals
+start time: 6:40 pm EDT
+
+
+date: Apr 9 (Wed)
+Pirates playing against: Cardinals
+start time: 12:35 pm EDT
+
+
+date: Apr 11 (Fri)
+Pirates playing against: Reds
+start time: 6:40 pm EDT
+
+
+date: Apr 12 (Sat)
+Pirates playing against: Reds
+start time: 6:40 pm EDT
+
+
+date: Apr 13 (Sun)
+Pirates playing against: Reds
+start time: 1:40 pm EDT
+
+
+date: Apr 14 (Mon)
+Pirates playing against: Nationals
+start time: 6:40 pm EDT
+
+
+date: Apr 15 (Tue)
+Pirates playing against: Nationals
+start time: 6:40 pm EDT
+
+
+date: Apr 16 (Wed)
+Pirates playing against: Nationals
+start time: 6:40 pm EDT
+
+
+date: Apr 17 (Thu)
+Pirates playing against: Nationals
+start time: 12:35 pm EDT
+
+
+date: Apr 18 (Fri)
+Pirates playing against: Guardians
+start time: 6:40 pm EDT
+
+
+date: Apr 19 (Sat)
+Pirates playing against: Guardians
+start time: 4:05 pm EDT
+
+
+date: Apr 20 (Sun)
+Pirates playing against: Guardians
+start time: 1:35 pm EDT
+
+
+date: Apr 22 (Tue)
+Pirates playing against: Angels
+start time: 9:38 pm EDT
+
+
+date: Apr 23 (Wed)
+Pirates playing against: Angels
+start time: 9:38 pm EDT
+
+
+date: Apr 24 (Thu)
+Pirates playing against: Angels
+start time: 9:29 pm EDT
+
+
+date: Apr 25 (Fri)
+Pirates playing against: Dodgers
+start time: 10:10 pm EDT
+
+
+date: Apr 26 (Sat)
+Pirates playing against: Dodgers
+start time: 9:10 pm EDT
+
+
+date: Apr 27 (Sun)
+Pirates playing against: Dodgers
+start time: 4:10 pm EDT
+
+
+date: Apr 29 (Tue)
+Pirates playing against: Cubs
+start time: 6:40 pm EDT
+
+
+date: Apr 30 (Wed)
+Pirates playing against: Cubs
+start time: 6:40 pm EDT
+
+
+date: Mar 9 (Sun)
+Pirates playing against: Tigers
+start time: 
+
+
+date: Mar 10 (Mon)
+Pirates playing against: Orioles
+start time: 
+
+
+date: Mar 11 (Tue)
+Pirates playing against: Yankees
+start time: 
+
+
+date: May 1 (Thu)
+Pirates playing against: Cubs
+start time: 12:35 pm EDT
+
+
+date: May 2 (Fri)
+Pirates playing against: Padres
+start time: 6:40 pm EDT
+
+
+date: May 3 (Sat)
+Pirates playing against: Padres
+start time: 4:05 pm EDT
+
+
+date: May 4 (Sun)
+Pirates playing against: Padres
+start time: 1:35 pm EDT
+
+
+date: May 5 (Mon)
+Pirates playing against: Cardinals
+start time: 7:45 pm EDT
+
+
+date: May 6 (Tue)
+Pirates playing against: Cardinals
+start time: 7:45 pm EDT
+
+
+date: May 7 (Wed)
+Pirates playing against: Cardinals
+start time: 1:15 pm EDT
+
+
+date: May 9 (Fri)
+Pirates playing against: Braves
+start time: 6:40 pm EDT
+
+
+date: May 10 (Sat)
+Pirates playing against: Braves
+start time: 4:05 pm EDT
+
+
+date: May 11 (Sun)
+Pirates playing against: Braves
+start time: 1:35 pm EDT
+
+
+date: May 12 (Mon)
+Pirates playing against: Mets
+start time: 7:10 pm EDT
+
+
+date: May 13 (Tue)
+Pirates playing against: Mets
+start time: 7:10 pm EDT
+
+
+date: May 14 (Wed)
+Pirates playing against: Mets
+start time: 7:10 pm EDT
+
+
+date: May 16 (Fri)
+Pirates playing against: Phillies
+start time: 6:45 pm EDT
+
+
+date: May 17 (Sat)
+Pirates playing against: Phillies
+start time: 6:05 pm EDT
+
+
+date: May 18 (Sun)
+Pirates playing against: Phillies
+start time: 1:35 pm EDT
+
+
+date: May 19 (Mon)
+Pirates playing against: Reds
+start time: 6:40 pm EDT
+
+
+date: May 20 (Tue)
+Pirates playing against: Reds
+start time: 6:40 pm EDT
+
+
+date: May 21 (Wed)
+Pirates playing against: Reds
+start time: 12:35 pm EDT
+
+
+date: May 22 (Thu)
+Pirates playing against: Brewers
+start time: 6:40 pm EDT
+
+
+date: May 23 (Fri)
+Pirates playing against: Brewers
+start time: 6:40 pm EDT
+
+
+date: May 24 (Sat)
+Pirates playing against: Brewers
+start time: 4:05 pm EDT
+
+
+date: May 25 (Sun)
+Pirates playing against: Brewers
+start time: 1:35 pm EDT
+
+
+date: May 26 (Mon)
+Pirates playing against: D-backs
+start time: 8:10 pm EDT
+
+
+date: May 27 (Tue)
+Pirates playing against: D-backs
+start time: 9:40 pm EDT
+
+
+date: May 28 (Wed)
+Pirates playing against: D-backs
+start time: 3:40 pm EDT
+
+
+date: May 30 (Fri)
+Pirates playing against: Padres
+start time: 9:40 pm EDT
+
+
+date: May 31 (Sat)
+Pirates playing against: Padres
+start time: 9:40 pm EDT
+
+
+date: Jun 1 (Sun)
+Pirates playing against: Padres
+start time: 5:10 pm EDT
+
+
+date: Jun 3 (Tue)
+Pirates playing against: Astros
+start time: 6:40 pm EDT
+
+
+date: Jun 4 (Wed)
+Pirates playing against: Astros
+start time: 6:40 pm EDT
+
+
+date: Jun 5 (Thu)
+Pirates playing against: Astros
+start time: 6:40 pm EDT
+
+
+date: Jun 6 (Fri)
+Pirates playing against: Phillies
+start time: 6:40 pm EDT
+
+
+date: Jun 7 (Sat)
+Pirates playing against: Phillies
+start time: 4:05 pm EDT
+
+
+date: Jun 8 (Sun)
+Pirates playing against: Phillies
+start time: 1:35 pm EDT
+
+
+date: Jun 9 (Mon)
+Pirates playing against: Marlins
+start time: 6:40 pm EDT
+
+
+date: Jun 10 (Tue)
+Pirates playing against: Marlins
+start time: 6:40 pm EDT
+
+
+date: Jun 11 (Wed)
+Pirates playing against: Marlins
+start time: 12:35 pm EDT
+
+
+date: Jun 12 (Thu)
+Pirates playing against: Cubs
+start time: 8:05 pm EDT
+
+
+date: Jun 13 (Fri)
+Pirates playing against: Cubs
+start time: 2:20 pm EDT
+
+
+date: Jun 14 (Sat)
+Pirates playing against: Cubs
+start time: 2:20 pm EDT
+
+
+date: Jun 15 (Sun)
+Pirates playing against: Cubs
+start time: 2:20 pm EDT
+
+
+date: Jun 17 (Tue)
+Pirates playing against: Tigers
+start time: 6:40 pm EDT
+
+
+date: Jun 18 (Wed)
+Pirates playing against: Tigers
+start time: 6:40 pm EDT
+
+
+date: Jun 19 (Thu)
+Pirates playing against: Tigers
+start time: 1:10 pm EDT
+
+
+date: Jun 20 (Fri)
+Pirates playing against: Rangers
+start time: 6:40 pm EDT
+
+
+date: Jun 21 (Sat)
+Pirates playing against: Rangers
+start time: 4:05 pm EDT
+
+
+date: Jun 22 (Sun)
+Pirates playing against: Rangers
+start time: 1:35 pm EDT
+
+
+date: Jun 23 (Mon)
+Pirates playing against: Brewers
+start time: 7:40 pm EDT
+
+
+date: Jun 24 (Tue)
+Pirates playing against: Brewers
+start time: 7:40 pm EDT
+
+
+date: Jun 25 (Wed)
+Pirates playing against: Brewers
+start time: 2:10 pm EDT
+
+
+date: Jun 27 (Fri)
+Pirates playing against: Mets
+start time: 6:40 pm EDT
+
+
+date: Jun 28 (Sat)
+Pirates playing against: Mets
+start time: 4:05 pm EDT
+
+
+date: Jun 29 (Sun)
+Pirates playing against: Mets
+start time: 1:35 pm EDT
+
+
+date: Jun 30 (Mon)
+Pirates playing against: Cardinals
+start time: 6:40 pm EDT
+
+
+date: Jul 1 (Tue)
+Pirates playing against: Cardinals
+start time: 6:40 pm EDT
+
+
+date: Jul 2 (Wed)
+Pirates playing against: Cardinals
+start time: 12:35 pm EDT
+
+
+date: Jul 4 (Fri)
+Pirates playing against: Mariners
+start time: 4:10 pm EDT
+
+
+date: Jul 5 (Sat)
+Pirates playing against: Mariners
+start time: 10:10 pm EDT
+
+
+date: Jul 6 (Sun)
+Pirates playing against: Mariners
+start time: 4:10 pm EDT
+
+
+date: Jul 7 (Mon)
+Pirates playing against: Royals
+start time: 7:40 pm EDT
+
+
+date: Jul 8 (Tue)
+Pirates playing against: Royals
+start time: 7:40 pm EDT
+
+
+date: Jul 9 (Wed)
+Pirates playing against: Royals
+start time: 7:40 pm EDT
+
+
+date: Jul 11 (Fri)
+Pirates playing against: Twins
+start time: 8:10 pm EDT
+
+
+date: Jul 12 (Sat)
+Pirates playing against: Twins
+start time: 2:10 pm EDT
+
+
+date: Jul 13 (Sun)
+Pirates playing against: Twins
+start time: 2:10 pm EDT
+
+
+date: Jul 14 (Mon)
+Pirates playing against: Cubs
+start time: 8:00 pm EDT
+
+
+date: Jul 15 (Tue)
+Pirates playing against: NL All-Stars
+start time: 8:00 pm EDT
+
+
+date: Jul 18 (Fri)
+Pirates playing against: White Sox
+start time: 6:40 pm EDT
+
+
+date: Jul 19 (Sat)
+Pirates playing against: White Sox
+start time: 6:40 pm EDT
+
+
+date: Jul 20 (Sun)
+Pirates playing against: White Sox
+start time: 1:35 pm EDT
+
+
+date: Jul 21 (Mon)
+Pirates playing against: Tigers
+start time: 6:40 pm EDT
+
+
+date: Jul 22 (Tue)
+Pirates playing against: Tigers
+start time: 6:40 pm EDT
+
+
+date: Jul 23 (Wed)
+Pirates playing against: Tigers
+start time: 12:35 pm EDT
+
+
+date: Jul 25 (Fri)
+Pirates playing against: D-backs
+start time: 6:40 pm EDT
+
+
+date: Jul 26 (Sat)
+Pirates playing against: D-backs
+start time: 6:40 pm EDT
+
+
+date: Jul 27 (Sun)
+Pirates playing against: D-backs
+start time: 1:35 pm EDT
+
+
+date: Jul 28 (Mon)
+Pirates playing against: Giants
+start time: 9:45 pm EDT
+
+
+date: Jul 29 (Tue)
+Pirates playing against: Giants
+start time: 9:45 pm EDT
+
+
+date: Jul 30 (Wed)
+Pirates playing against: Giants
+start time: 3:45 pm EDT
+
+
+date: Aug 1 (Fri)
+Pirates playing against: Rockies
+start time: 8:10 pm EDT
+
+
+date: Aug 2 (Sat)
+Pirates playing against: Rockies
+start time: 3:10 pm EDT
+
+
+date: Aug 3 (Sun)
+Pirates playing against: Rockies
+start time: 3:10 pm EDT
+
+
+date: Aug 4 (Mon)
+Pirates playing against: Giants
+start time: 6:40 pm EDT
+
+
+date: Aug 5 (Tue)
+Pirates playing against: Giants
+start time: 6:40 pm EDT
+
+
+date: Aug 6 (Wed)
+Pirates playing against: Giants
+start time: 12:35 pm EDT
+
+
+date: Aug 7 (Thu)
+Pirates playing against: Reds
+start time: 6:40 pm EDT
+
+
+date: Aug 8 (Fri)
+Pirates playing against: Reds
+start time: 6:40 pm EDT
+
+
+date: Aug 9 (Sat)
+Pirates playing against: Reds
+start time: 6:40 pm EDT
+
+
+date: Aug 10 (Sun)
+Pirates playing against: Reds
+start time: 1:35 pm EDT
+
+
+date: Aug 11 (Mon)
+Pirates playing against: Brewers
+start time: 7:40 pm EDT
+
+
+date: Aug 12 (Tue)
+Pirates playing against: Brewers
+start time: 7:40 pm EDT
+
+
+date: Aug 13 (Wed)
+Pirates playing against: Brewers
+start time: 2:10 pm EDT
+
+
+date: Aug 15 (Fri)
+Pirates playing against: Cubs
+start time: 2:20 pm EDT
+
+
+date: Aug 16 (Sat)
+Pirates playing against: Cubs
+start time: 2:20 pm EDT
+
+
+date: Aug 17 (Sun)
+Pirates playing against: Cubs
+start time: 2:20 pm EDT
+
+
+date: Aug 18 (Mon)
+Pirates playing against: Blue Jays
+start time: 6:40 pm EDT
+
+
+date: Aug 19 (Tue)
+Pirates playing against: Blue Jays
+start time: 6:40 pm EDT
+
+
+date: Aug 20 (Wed)
+Pirates playing against: Blue Jays
+start time: 12:35 pm EDT
+
+
+date: Aug 22 (Fri)
+Pirates playing against: Rockies
+start time: 6:40 pm EDT
+
+
+date: Aug 23 (Sat)
+Pirates playing against: Rockies
+start time: 6:40 pm EDT
+
+
+date: Aug 24 (Sun)
+Pirates playing against: Rockies
+start time: 12:05 pm EDT
+
+
+date: Aug 25 (Mon)
+Pirates playing against: Cardinals
+start time: 7:45 pm EDT
+
+
+date: Aug 26 (Tue)
+Pirates playing against: Cardinals
+start time: 7:45 pm EDT
+
+
+date: Aug 27 (Wed)
+Pirates playing against: Cardinals
+start time: 7:45 pm EDT
+
+
+date: Aug 28 (Thu)
+Pirates playing against: Cardinals
+start time: 2:15 pm EDT
+
+
+date: Aug 29 (Fri)
+Pirates playing against: Red Sox
+start time: 7:10 pm EDT
+
+
+date: Aug 30 (Sat)
+Pirates playing against: Red Sox
+start time: 4:10 pm EDT
+
+
+date: Aug 31 (Sun)
+Pirates playing against: Red Sox
+start time: 1:35 pm EDT
+
+
+date: Sep 2 (Tue)
+Pirates playing against: Dodgers
+start time: 6:40 pm EDT
+
+
+date: Sep 3 (Wed)
+Pirates playing against: Dodgers
+start time: 6:40 pm EDT
+
+
+date: Sep 4 (Thu)
+Pirates playing against: Dodgers
+start time: 6:40 pm EDT
+
+
+date: Sep 5 (Fri)
+Pirates playing against: Brewers
+start time: 6:40 pm EDT
+
+
+date: Sep 6 (Sat)
+Pirates playing against: Brewers
+start time: 6:40 pm EDT
+
+
+date: Sep 7 (Sun)
+Pirates playing against: Brewers
+start time: 1:35 pm EDT
+
+
+date: Sep 9 (Tue)
+Pirates playing against: Orioles
+start time: 6:35 pm EDT
+
+
+date: Sep 10 (Wed)
+Pirates playing against: Orioles
+start time: 6:35 pm EDT
+
+
+date: Sep 11 (Thu)
+Pirates playing against: Orioles
+start time: 1:05 pm EDT
+
+
+date: Sep 12 (Fri)
+Pirates playing against: Nationals
+start time: 6:45 pm EDT
+
+
+date: Sep 13 (Sat)
+Pirates playing against: Nationals
+start time: 4:05 pm EDT
+
+
+date: Sep 14 (Sun)
+Pirates playing against: Nationals
+start time: 1:35 pm EDT
+
+
+date: Sep 15 (Mon)
+Pirates playing against: Cubs
+start time: 6:40 pm EDT
+
+
+date: Sep 16 (Tue)
+Pirates playing against: Cubs
+start time: 6:40 pm EDT
+
+
+date: Sep 17 (Wed)
+Pirates playing against: Cubs
+start time: 12:35 pm EDT
+
+
+date: Sep 19 (Fri)
+Pirates playing against: Athletics
+start time: 6:40 pm EDT
+
+
+date: Sep 20 (Sat)
+Pirates playing against: Athletics
+start time: 6:40 pm EDT
+
+
+date: Sep 21 (Sun)
+Pirates playing against: Athletics
+start time: 1:35 pm EDT
+
+
+date: Sep 23 (Tue)
+Pirates playing against: Reds
+start time: 6:40 pm EDT
+
+
+date: Sep 24 (Wed)
+Pirates playing against: Reds
+start time: 6:40 pm EDT
+
+
+date: Sep 25 (Thu)
+Pirates playing against: Reds
+start time: 12:40 pm EDT
+
+
+date: Sep 26 (Fri)
+Pirates playing against: Braves
+start time: 7:15 pm EDT
+
+
+date: Sep 27 (Sat)
+Pirates playing against: Braves
+start time: 7:15 pm EDT
+
+
+date: Sep 28 (Sun)
+Pirates playing against: Braves
+start time: 3:15 pm EDT
+
+
+
+
+
+
+
+
+
+
+
