@@ -41,7 +41,11 @@
     },
     {
         "question": "Who created the terrible towel at 1975?",
+<<<<<<< HEAD
         "answer": ["Myron Cope"]
+=======
+        "answer": "Myron Cope"
+>>>>>>> 520d13640765822a42325752ba5ef87358233cec
     },
     {
         "question": "When was the Banana Split, an iconic part of American dessert culture invented?",
