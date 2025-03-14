@@ -1,0 +1,418 @@
+"name": "Fall Foliage Paddleboarding Eco Tours",
+"startDate": "2025-09-01",
+"endDate": "2025-10-27",
+"location": "Unknown Location",
+"streetAddress": "N/A",
+"addressLocality": "N/A",
+"addressRegion": "N/A",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Sprankle's Octoberfest",
+"startDate": "2025-09-05",
+"endDate": "2025-09-07",
+"location": "Lernerville Speedway",
+"streetAddress": "313 N Pike Rd",
+"addressLocality": "Sarver ",
+"addressRegion": "Pennsylvania 16055",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Saxonburg Arts Festival",
+"startDate": "2025-09-07",
+"endDate": "2025-09-08",
+"location": "Downtown Saxonburg",
+"streetAddress": "Main Street",
+"addressLocality": "Saxonburg",
+"addressRegion": "Pennsylvania 16056",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Whiskey Wednesdays",
+"startDate": "2025-09-10",
+"endDate": "2025-09-10",
+"location": "West Overton Village",
+"streetAddress": "109 W. Overton Road",
+"addressLocality": "Scottdale",
+"addressRegion": "Pennsylvania 15683",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Free Exhibition Opening: Yasmine El Meleegy",
+"startDate": "2025-09-12",
+"endDate": "2025-09-12",
+"location": "Mattress Factory Museum of Contemporary Art",
+"streetAddress": "509 Jacksonia St. ",
+"addressLocality": "Pittsburgh ",
+"addressRegion": "Pennsylvania 15212",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Slippery Rock VillageFest",
+"startDate": "2025-09-13",
+"endDate": "2025-09-13",
+"location": "Downtown Slippery Rock",
+"streetAddress": "Main Street",
+"addressLocality": "Slippery Rock",
+"addressRegion": "Pennsylvania 16057",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "POGOH's End of Summer Roll Up",
+"startDate": "2025-09-13",
+"endDate": "2025-09-13",
+"location": "3328 Penn Ave.",
+"streetAddress": "Pittsburgh",
+"addressLocality": "Pennsylvania",
+"addressRegion": "N/A",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "THE OLD ALLEGHENY COUNTY JAIL AND MUSEUM--FREE",
+"startDate": "2025-09-15",
+"endDate": "2025-09-15",
+"location": "440 ROSS STREET",
+"streetAddress": "PITTSBURGH",
+"addressLocality": "PA  15219",
+"addressRegion": "440 ROSS STREET",
+"postalCode": "PITTSBURGH",
+"addressCountry": "USA"
+
+
+"name": "Fall Migration Festival",
+"startDate": "2025-09-21",
+"endDate": "2025-09-21",
+"location": "Stormy Oaks Nature Conservancy",
+"streetAddress": "120 Forsythe Road",
+"addressLocality": "Valencia ",
+"addressRegion": "Pennsylvania 16059",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Yoga Power Retreat: Discover the Magic of Yoga",
+"startDate": "2025-09-25",
+"endDate": "2025-09-28",
+"location": "Nemacolin",
+"streetAddress": "1001 Lafayette Drive",
+"addressLocality": "Farmington",
+"addressRegion": "Pennsylvania 15437",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Butler Fall Festival",
+"startDate": "2025-09-27",
+"endDate": "2025-09-27",
+"location": "Downtown Butler",
+"streetAddress": "Main Street",
+"addressLocality": "Butler",
+"addressRegion": "Pennsylvania 16001",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Freedom Farms Maized & Confused",
+"startDate": "2025-09-27",
+"endDate": "2025-09-27",
+"location": "Freedom Farms",
+"streetAddress": "434 Overbrook Road",
+"addressLocality": "Valencia ",
+"addressRegion": "Pennsylvania 16059",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Fall Apple Fest",
+"startDate": "2025-10-04",
+"endDate": "2025-10-05",
+"location": "Portersville Steam Show Grounds",
+"streetAddress": "1512 Perry Hwy.",
+"addressLocality": "Portersville ",
+"addressRegion": "Pennsylvania 16051",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Pittsburgh's Rivers of Fire",
+"startDate": "2025-10-04",
+"endDate": "2025-10-04",
+"location": "Velum Fermentation",
+"streetAddress": "2120 Jane Street",
+"addressLocality": "Pittsburgh",
+"addressRegion": "Pennsylvania 15203",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Freedom Farms Fall Fest",
+"startDate": "2025-10-04",
+"endDate": "2025-10-26",
+"location": "Freedom Farms",
+"streetAddress": "434 Overbrook Road",
+"addressLocality": "Valencia ",
+"addressRegion": "Pennsylvania 16059",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "THE OLD ALLEGHENY COUNTY JAIL AND MUSEUM--FREE",
+"startDate": "2025-10-06",
+"endDate": "2025-10-06",
+"location": "440 ROSS STREET",
+"streetAddress": "PITTSBURGH",
+"addressLocality": "PA  15219",
+"addressRegion": "440 ROSS STREET",
+"postalCode": "PITTSBURGH",
+"addressCountry": "USA"
+
+
+"name": "Whiskey Wednesdays",
+"startDate": "2025-10-08",
+"endDate": "2025-10-08",
+"location": "West Overton Village",
+"streetAddress": "109 W. Overton Road",
+"addressLocality": "Scottdale",
+"addressRegion": "Pennsylvania 15683",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Bantam Trailfest",
+"startDate": "2025-10-10",
+"endDate": "2025-10-12",
+"location": "Bantam Quarry at Kildoo",
+"streetAddress": "989 Kildoo Road",
+"addressLocality": "Portersville ",
+"addressRegion": "Pennsylvania 16051",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Zelienople Fall Festival",
+"startDate": "2025-10-10",
+"endDate": "2025-10-11",
+"location": "Downtown Zelienople",
+"streetAddress": "Main Street",
+"addressLocality": "Zelienople ",
+"addressRegion": "Pennsylvania 16063",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Sleepy Hollow Festival",
+"startDate": "2025-10-11",
+"endDate": "2025-10-12",
+"location": "The Center of Harmony",
+"streetAddress": "253 Mercer St",
+"addressLocality": "Harmony ",
+"addressRegion": "Pennsylvania 16037",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "THE OLD ALLEGHENY COUNTY JAIL AND MUSEUM--FREE",
+"startDate": "2025-10-20",
+"endDate": "2025-10-20",
+"location": "440 ROSS STREET",
+"streetAddress": "PITTSBURGH",
+"addressLocality": "PA  15219",
+"addressRegion": "440 ROSS STREET",
+"postalCode": "PITTSBURGH",
+"addressCountry": "USA"
+
+
+"name": "THE OLD ALLEGHENY COUNTY JAIL AND MUSEUM--FREE",
+"startDate": "2025-10-20",
+"endDate": "2025-10-20",
+"location": "440 ROSS STREET",
+"streetAddress": "PITTSBURGH",
+"addressLocality": "PA  15219",
+"addressRegion": "440 ROSS STREET",
+"postalCode": "PITTSBURGH",
+"addressCountry": "USA"
+
+
+"name": "Pittsburgh Coffee & Chocolate Festival",
+"startDate": "2025-10-25",
+"endDate": "2025-10-26",
+"location": "Monroeville Convention Center",
+"streetAddress": "209 Mall Boulevard ",
+"addressLocality": "Monroeville ",
+"addressRegion": "Pennsylvania 15146",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Pittsburgh Coffee & Chocolate Festival",
+"startDate": "2025-10-25",
+"endDate": "2025-10-26",
+"location": "Monroeville Convention Center",
+"streetAddress": "209 Mall Boulevard ",
+"addressLocality": "Monroeville ",
+"addressRegion": "Pennsylvania 15146",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "THE OLD ALLEGHENY COUNTY JAIL AND MUSEUM--FREE",
+"startDate": "2025-11-03",
+"endDate": "2025-11-03",
+"location": "440 ROSS STREET",
+"streetAddress": "PITTSBURGH",
+"addressLocality": "PA  15219",
+"addressRegion": "440 ROSS STREET",
+"postalCode": "PITTSBURGH",
+"addressCountry": "USA"
+
+
+"name": "Comedy Bingo Night!",
+"startDate": "2025-11-08",
+"endDate": "2025-11-08",
+"location": "Arcade Comedy Theater",
+"streetAddress": "943 Liberty Ave",
+"addressLocality": "Pittsburgh",
+"addressRegion": "Pennsylvania 15222",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "THE OLD ALLEGHENY COUNTY JAIL AND MUSEUM--FREE",
+"startDate": "2025-11-17",
+"endDate": "2025-11-17",
+"location": "440 ROSS STREET",
+"streetAddress": "PITTSBURGH",
+"addressLocality": "PA  15219",
+"addressRegion": "440 ROSS STREET",
+"postalCode": "PITTSBIURGH",
+"addressCountry": "USA"
+
+
+"name": "Free Exhibition Opening: Ting Tong Chang",
+"startDate": "2025-11-21",
+"endDate": "2025-11-21",
+"location": "Mattress Factory Museum of Contemporary Art",
+"streetAddress": "509 Jacksonia St. ",
+"addressLocality": "Pittsburgh",
+"addressRegion": "Pennsylvania 15212",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Thanksgiving Feast",
+"startDate": "2025-11-27",
+"endDate": "2025-11-27",
+"location": "Nemacolin",
+"streetAddress": "1001 Lafayette Drive",
+"addressLocality": "Farmington",
+"addressRegion": "Pennsylvania 15437",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Light Up Nemacolin",
+"startDate": "2025-11-28",
+"endDate": "2025-11-28",
+"location": "Nemacolin",
+"streetAddress": "1001 Lafayette Drive",
+"addressLocality": "Farmington",
+"addressRegion": "Pennsylvania 15437",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "THE OLD ALLEGHENY COUNTY JAIL AND MUSEUM--FREE",
+"startDate": "2025-12-01",
+"endDate": "2025-12-01",
+"location": "440 ROSS STREET",
+"streetAddress": "PITTSBURGH",
+"addressLocality": "PA  15219",
+"addressRegion": "440 ROSS STREET",
+"postalCode": "PITTSBURGH",
+"addressCountry": "USA"
+
+
+"name": "Holiday Mart at the Museum Shop",
+"startDate": "2025-12-04",
+"endDate": "2025-12-06",
+"location": "The Westmoreland Museum of American Art",
+"streetAddress": "221 N. Main St.",
+"addressLocality": "Greensburg",
+"addressRegion": "Pennsylvania 15601",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Pittsburgh Holiday Festival",
+"startDate": "2025-12-13",
+"endDate": "2025-12-13",
+"location": "Monroeville Convention Center",
+"streetAddress": "209 Mall Boulevard ",
+"addressLocality": "Monroeville",
+"addressRegion": "Pennsylvania 15146",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "THE OLD ALLEGHENY COUNTY JAIL AND MUSEUM--FREE",
+"startDate": "2025-12-15",
+"endDate": "2025-12-15",
+"location": "440 ROSS STREET",
+"streetAddress": "PITTSBURGH",
+"addressLocality": "PA  15219",
+"addressRegion": "440 ROSS STREET",
+"postalCode": "PITTSBURGH",
+"addressCountry": "USA"
+
+
+"name": "Christmas at Nemacolin",
+"startDate": "2025-12-24",
+"endDate": "2025-12-28",
+"location": "Nemacolin",
+"streetAddress": "1001 Lafayette Drive",
+"addressLocality": "Farmington",
+"addressRegion": "Pennsylvania 15437",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "New Year’s Weekend at Nemacolin",
+"startDate": "2025-12-30",
+"endDate": "2026-01-01",
+"location": "Nemacolin",
+"streetAddress": "1001 Lafayette Drive",
+"addressLocality": "Farmington",
+"addressRegion": "Pennsylvania 15437",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Winterfest",
+"startDate": "2026-02-07",
+"endDate": "2026-02-07",
+"location": "Nemacolin",
+"streetAddress": "1001 Lafayette Dr",
+"addressLocality": "15437",
+"addressRegion": "Pennsylvania 15437",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
+"name": "Presidents Day Weekend",
+"startDate": "2026-02-13",
+"endDate": "2026-02-13",
+"location": "Unknown Location",
+"streetAddress": "N/A",
+"addressLocality": "N/A",
+"addressRegion": "N/A",
+"postalCode": "N/A",
+"addressCountry": "USA"
+
+
