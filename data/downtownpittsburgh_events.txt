@@ -1,114 +1,114 @@
 "name": "The Network Factory IX: Neighbor to Neighbor",
 "startDate": "2025-03-20",
 "address": "117 Sandusky St , Pittsburgh, PA 15212",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "Shamrock Tenors",
 "startDate": "2025-03-20",
 "address": "101 6th St , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "International Seating Symposium",
 "startDate": "2025-03-20",
 "address": "1000 Fort Duquesne Blvd , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "Backstage/Onstage with Joe Grushecky",
 "startDate": "2025-03-20",
 "address": "350 Forbes Ave , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "Spotlight on the ‘Burgh: Whose Trick is it Anyway?",
 "startDate": "2025-03-19",
 "address": "811 Liberty Ave , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
 
 
-"name": "Who's Afraid of Virginia Woolf?",
+
+"name": "Whos Afraid of Virginia Woolf?",
 "startDate": "2025-03-19",
 "address": "621 Penn Ave , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "Universal Language",
 "startDate": "2025-03-14",
 "address": "809 Liberty Ave , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "Vermiglio",
 "startDate": "2025-03-07",
 "address": "809 Liberty Ave , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "August Taught Us",
 "startDate": "2025-03-06",
 "address": "980 Liberty Ave , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "House Team Hot Spot",
 "startDate": "2025-03-21",
 "address": "943 Liberty Ave , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "Jeremy Piven Live",
 "startDate": "2025-03-21",
 "address": "101 6th St , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "Jeremy Piven VIP Meet & Greet",
 "startDate": "2025-03-21",
 "address": "101 6th St , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "Let’s Speak English!",
 "startDate": "2025-03-21",
 "address": "612 Smithfield St , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "2025-For Inspiration and Recognition of Science and Technology (FIRST)",
 "startDate": "2025-03-21",
 "address": "1000 Fort Duquesne Blvd , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "Kanneh-Mason Performs Shostakovich",
 "startDate": "2025-03-21",
 "address": "600 Penn Ave , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "Penguins vs. Blue Jackets",
 "startDate": "2025-03-21",
 "address": "1001 Fifth Ave , Pittsburgh, PA 15219",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "The Thaw: Weekend 3",
 "startDate": "2025-03-21",
 "address": " , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "International Seating Symposium",
 "startDate": "2025-03-20",
 "address": "1000 Fort Duquesne Blvd , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
+
 
 
 "name": "Spotlight on the ‘Burgh: Whose Trick is it Anyway?",
 "startDate": "2025-03-19",
 "address": "811 Liberty Ave , Pittsburgh, PA 15222",
-"description": "The Red Scare, tinted lavender."
+
 
 
