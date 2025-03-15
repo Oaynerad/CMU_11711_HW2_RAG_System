@@ -226,13 +226,22 @@ class ParagraphThenCharacterSplitter:
             processed_docs.extend(self.split_document(doc))
         return processed_docs
 
-def predict_answers(pipeline_fn, queries):
-    answers = []
-    for query in queries:
-        answer = pipeline_fn(query)
-        answer = extract_answer(answer)
-        answers.append(answer)
-    return answers
+def predict_answers(pipeline_fn, queries, output_file="predictions.txt"):
+    with open(output_file, "a", encoding="utf-8") as f:
+        for query in queries:
+            try:
+                answer = pipeline_fn(query)
+                answer = extract_answer(answer)
+                answer = f"{answer}\n"
+                answers = f"Q: {query}\nA: {answer}\n\n"
+                f.write(answer)
+                f.flush()
+                print(answers)
+
+            except Exception as e:
+                print(f"❌ 处理问题时发生错误: {query}\n错误信息: {e}\n")
+                continue
+
 
 def load_qa_pairs(question_file_path, answer_file_path):
     with open(question_file_path, "r", encoding="utf-8") as file:
@@ -391,7 +400,7 @@ if __name__ == "__main__":
     )
 
     questions, answers = load_qa_pairs(
-        question_file_path=r"D:\hw2_new\test.txt",
+        question_file_path=r"D:\hw2_new\test_new.txt",
         answer_file_path=r"C:\Users\25353\Downloads\CMU_11711_HW2_RAG_System-QA-QA_different_type\qa_val\person_QA_a.txt"
     )
     pipeline_fn = build_langchain_pipeline(
@@ -402,12 +411,12 @@ if __name__ == "__main__":
         q_list=questions,
         a_list=answers
     )
-    answer = pipeline_fn("When is the 'Marvel Infinity Saga' event scheduled?")
+    answer = pipeline_fn("According to ""Pittsburgh's 2023 Economic Forecast,"" in how many major industrial sectors had Pittsburgh's labor market not yet recovered to pre-pandemic levels?")
     answer = extract_answer(answer)
     print('____________',answer)
     
 
     predictions = predict_answers(pipeline_fn, questions)
-    list_to_json(predictions, file_path="output.json")
-    save_list_to_txt(predictions, "predictions.txt")
+    # list_to_json(predictions, file_path="output.json")
+    # save_list_to_txt(predictions, "predictions.txt")
     # evaluate(predictions, answers)
