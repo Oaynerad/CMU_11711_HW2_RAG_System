@@ -8,6 +8,7 @@
 - Scraped **17 main pages** and **12+ related subpages**, totaling over **30+ pages**.
 - Developed scripts for web scraping and data extraction.
 - Designed test QA pairs based on the collected data.
+- Analyzed the model's performance across different question types and proposed improvement directions.
 - **txt files contributed by daren:**
 
 ``` txt
