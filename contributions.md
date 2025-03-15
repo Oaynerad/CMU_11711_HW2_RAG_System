@@ -106,8 +106,13 @@
 
 ### **Jinsong Yuan (jinsongy)**
 
-- Built a **RAG (Retrieval-Augmented Generation) model** with **BM25 as the retriever**, **MiniLM as the reranker**, and **Flan-T5-783M as the prompter**.
+- Built a **RAG (Retrieval-Augmented Generation) model** with **BM25 as the retriever**, **MiniLM as the reranker**, and **Flan-T5-783M as the prompter**. And also compare it with decoder-only model mistralai/Mistral-7B-Instruct-v0.3. And I found the decoder-only performs better, so I choose it to be the final prompter.
+- 
 - Developed an automated pipeline using **LangChain** for seamless data processing and model integration.
 - Performed **data chunking** to improve retrieval efficiency and applied **few-shot learning** to enhance prompt formatting.
-- Evaluated model performance using **BLEU, ROUGE, and BERTScore**, observing **high BERTScore** but lower ROUGE due to structural variations in responses.
+- Evaluated model performance using **BLEU, ROUGE, and BERTScore**, observing **high BERTScore** but lower ROUGE due to structural variations in responses. I also compute the required f1 scores and exact match score.
 - Compared different reranking methods, testing **MiniLM vs. Cohere Rerank API**, optimizing performance while considering API limitations.
+- Do ablation experiment on few-shot template, different prompter model, reranker, and choose the best frame.
+- Do experiments on val  dataset and fit related parameters and hyper parameters like top-k.
+- Design the prompt template and experiment different templates to find a best one.
+- Do the few-shot prompt based on retriever but after experiment I found fixed few-shot performs better.
